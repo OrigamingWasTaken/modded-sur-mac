@@ -64,7 +64,7 @@ Dans Arguments Java, collez `-Dfml.earlyprogresswindow=false` dans la boite de t
 
 Pour copier les fichiers modded dans votre instance, cliquez sur finder dans la barre des applications. Puis, glissez votre souris vers le haut de l'écran pour que la barre d'options aparaisse. Sur la barre, appuyer sur "Aller", puis appuyez sur "Aller au dossier" tout en bas.
 
-Ensuite, collez `/Users/<utilisateur>/Library/Application Support/.modded` dans la boite de texte ou <utilisateur> est votre chemin d'utilisateur (ex: marlon).
+Ensuite, collez `/Users/<utilisateur>/Library/Application Support/.modded` dans la boite de texte ou `<utilisateur>` est votre chemin d'utilisateur (il écrit dans la bar latéral à gauche de finder, son icone c'est une maison).
 
 Vous aurez un dossier `.modded` qui va apparaître. Ouvrez le dossier, selectionnez tout les fichiers/dossiers, et copiez les.
 
