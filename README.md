@@ -4,7 +4,7 @@ Oui vous avez bien entendu, après de longues heures de debugging j'ai trouvé u
 
 ## Le launcher
 
-Comme launcher nous allons utiliser (https://prismlauncher.org)[PrismLauncher]. C'est la même chose que PolyMC mais en plus sûr (PolyMC a été backdoor par un des devs, d'ailleurs je vous conseille de le désinstaller). Nous l'utilisons car le launcher est très utile pour configurer son jeu.
+Comme launcher nous allons utiliser [PrismLauncher](https://prismlauncher.org). C'est la même chose que PolyMC mais en plus sûr (PolyMC a été backdoor par un des devs, d'ailleurs je vous conseille de le désinstaller). Nous l'utilisons car le launcher est très utile pour configurer son jeu.
 
 Allez sur https://prismlauncher.org et téléchargez la version Universal
 
