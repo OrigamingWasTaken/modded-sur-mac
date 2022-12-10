@@ -54,9 +54,11 @@ Fermez toute les fenêtre à part la page principal. Sur la page principal, cliq
 
 Une fois l'instance crée, allez sur la page principal et en selectionnant l'instance, appuyer sur "Modifier"
 
-Là, allez dans la section "Paramètres" et activez "Installation Java" et "Arguments Java"
+Là, allez dans la section "Paramètres" et activez "Installation Java", "Arguments Java" et "Mémoire"
 
 Dans Installation Java, activez "Passer les vérifications de compatibilité de Java" et verifiez que la version selectionnée est bien java 16 (par défaut, c'est le cas)
+
+Dans Mémoire, augmentez `Allocation minimale de la mémoire` à `2048`, et `Allocation minimale de la mémoire` à `4480`. (C'est nécéssaire pour lancer modded)
 
 Dans Arguments Java, collez `-Dfml.earlyprogresswindow=false` dans la boite de texte.
 
