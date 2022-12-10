@@ -92,7 +92,7 @@ Ensuite, copier le dossier jcef et collez le dans dossier `externalLibraries` qu
 
 ## Appliquer le patch mutlimc
 
-Déziper le fichier téléchargé et déplacez le dossier crée dans votre utilisateur (ex: `/Users/steve/`). Une fois le dossier déplacé, allez dans les paramètres de votre instance et aller dans la section (en haut de la page) `Commandes Personalisées`. Activer la première option et dans **Commande Wrapper**, collez `~/m1-multimc-hack-master/mcwrap.py`
+Déziper le fichier téléchargé et déplacez le dossier crée dans votre utilisateur (ex: `/Users/steve/`). Une fois le dossier déplacé, allez dans les paramètres de votre instance et aller dans la section (en haut de la page) `Commandes Personalisées`. Activer la première option et dans **Commande Wrapper**, collez `/Users/<utilisateur>/m1-multimc-hack-master/mcwrap.py` ou `<utilisateur>` est le chemin de votre utilisateur ([Exemple](https://user-images.githubusercontent.com/74014262/206857336-655f7f5d-b18f-481f-b455-c9d8807c2b0d.png))
 
 <img width="711" alt="CleanShot 2022-12-10 at 13 49 39@2x" src="https://user-images.githubusercontent.com/74014262/206855998-b1b55a71-6571-4c74-afa5-edf5af98fbed.png">
 
