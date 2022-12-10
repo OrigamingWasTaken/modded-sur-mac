@@ -4,7 +4,7 @@ Oui vous avez bien entendu, après de longues heures de debugging j'ai trouvé u
 
 ## Le launcher
 
-Comme launcher nous allons utiliser (PrismLauncher)[https://prismlauncher.org]. C'est la même chose que PolyMC mais en plus sûr (PolyMC a été backdoor par un des devs, d'ailleurs je vous conseille de le désinstaller)
+Comme launcher nous allons utiliser (PrismLauncher)[https://prismlauncher.org]. C'est la même chose que PolyMC mais en plus sûr (PolyMC a été backdoor par un des devs, d'ailleurs je vous conseille de le désinstaller). Nous l'utilisons car le launcher est très utile pour configurer son jeu.
 
 Allez sur https://prismlauncher.org et téléchargez la version Universal
 
@@ -30,3 +30,8 @@ Une fois téléchargé, ouvrez le launcher (paladium-group) et installez Modded 
 **Tout les fichiers seront entierement téléchargés quand le bouton jouer apparâitra**
 
 Une fois les fichiers téléchargés, vous pouvez quitter __paladium_group__
+
+## Enfin! Créer son instance Modded
+
+Maintenant que tout les fichiers sont téléchargés, nous pouvons aller créer une instance dans PrismLauncher.
+Pour se faire, ouvrez PrismLauncher et 
