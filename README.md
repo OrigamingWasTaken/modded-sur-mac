@@ -36,6 +36,10 @@ Une fois les fichiers téléchargés, vous pouvez quitter __paladium_group__
 Modded utilise une librairie nommée jcef. Mais celle ci en soit est incompatible avec mac. C'est pour ça que nous devons télécharger une version patch.
 Pour télécharger le patch, aller sur https://drive.google.com/file/d/1aDeoBLTdpe3LKjuEtStmGbMWQIPl6fXY/view?usp=sharing (il a été compilé par moi, c'est pour ça qu'il est sur google drive)
 
+## Télécharger le patch MultiMC
+PolyMC (basé sur MutliMC) ne supporte pas certaines librairies de rendu pour mac. Ce patch permet de régler ce problème
+Téléchargez le ici: https://github.com/yusefnapora/m1-multimc-hack/archive/refs/heads/master.zip
+
 ## Configurer PrismLauncher
 
 Maintenant que tout les fichiers sont téléchargés, nous pouvons aller créer une instance dans PrismLauncher.
@@ -66,7 +70,7 @@ Dans Arguments Java, collez `-Dfml.earlyprogresswindow=false` dans la boite de t
 
 Pour copier les fichiers modded dans votre instance, cliquez sur finder dans la barre des applications. Puis, glissez votre souris vers le haut de l'écran pour que la barre d'options aparaisse. Sur la barre, appuyer sur "Aller", puis appuyez sur "Aller au dossier" tout en bas.
 
-Ensuite, collez `/Users/<utilisateur>/Library/Application Support/.modded` dans la boite de texte ou `<utilisateur>` est votre chemin d'utilisateur (il écrit dans la bar latéral à gauche de finder, son icone c'est une maison).
+Ensuite, collez `~/Library/Application Support/.modded` dans la boite de texte.
 
 Vous aurez un dossier `.modded` qui va apparaître. Dans le dossier, selectionnez tout les fichiers/dossiers, et copiez les.
 
@@ -74,10 +78,14 @@ Vous aurez un dossier `.modded` qui va apparaître. Dans le dossier, selectionne
 
 Une fois dans le dossier, collez tout les fichiers modded. **Si des fichiers existent déjà sous le même nom, remplacez les.**
 
-## Appliquer le patch
+## Appliquer le patch jcef
 
 Si vous essayer de lancer modded, minecraft va crash. Pour régler cela, dezipez le fichiers jcef.zip que vous avez téléchargé avant.
 Ensuite, copier le dossier jcef et collez le dans dossier `externalLibraries` qui se trouve dans `.minecraft`
+
+## Appliquer le patch mutlimc
+
+Déziper le fichier téléchargé et déplacez le dossier crée dans votre utilisateur (ex: `/Users/steve/`). Une fois le dossier déplacé, allez dans les paramètres de votre instance et aller dans la section (en haut de la page) `Commandes Personalisées`. Activer la première option et dans **Commande Wrapper**, collez `~/m1-multimc-hack-master/mcwrap.py`
 
 # Profitez!
 
