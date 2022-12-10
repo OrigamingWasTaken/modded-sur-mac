@@ -43,10 +43,6 @@ Une fois les fichiers téléchargés, vous pouvez quitter __paladium_group__
 Modded utilise une librairie nommée jcef. Mais celle ci en soit est incompatible avec mac. C'est pour ça que nous devons télécharger une version patch.
 Pour télécharger le patch, aller sur https://drive.google.com/file/d/1aDeoBLTdpe3LKjuEtStmGbMWQIPl6fXY/view?usp=sharing (il a été compilé par moi, c'est pour ça qu'il est sur google drive)
 
-## Télécharger le patch MultiMC
-PolyMC (basé sur MutliMC) ne supporte pas certaines librairies de rendu pour mac. Ce patch permet de régler ce problème
-Téléchargez le ici: https://github.com/yusefnapora/m1-multimc-hack/archive/refs/heads/master.zip
-
 ## Configurer PrismLauncher
 
 Maintenant que tout les fichiers sont téléchargés, nous pouvons aller créer une instance dans PrismLauncher.
@@ -89,12 +85,6 @@ Une fois dans le dossier, collez tout les fichiers modded. **Si des fichiers exi
 
 Si vous essayer de lancer modded, minecraft va crash. Pour régler cela, dezipez le fichiers jcef.zip que vous avez téléchargé avant.
 Ensuite, copier le dossier jcef et collez le dans dossier `externalLibraries` qui se trouve dans `.minecraft`
-
-## Appliquer le patch mutlimc
-
-Déziper le fichier téléchargé et déplacez le dossier crée dans votre utilisateur (ex: `/Users/steve/`). Une fois le dossier déplacé, allez dans les paramètres de votre instance et aller dans la section (en haut de la page) `Commandes Personalisées`. Activer la première option et dans **Commande Wrapper**, collez `/Users/<utilisateur>/m1-multimc-hack-master/mcwrap.py` ou `<utilisateur>` est le chemin de votre utilisateur ([Exemple](https://user-images.githubusercontent.com/74014262/206857336-655f7f5d-b18f-481f-b455-c9d8807c2b0d.png))
-
-<img width="711" alt="CleanShot 2022-12-10 at 13 49 39@2x" src="https://user-images.githubusercontent.com/74014262/206855998-b1b55a71-6571-4c74-afa5-edf5af98fbed.png">
 
 # Profitez!
 
