@@ -43,7 +43,7 @@ Pour se faire, ouvrez PrismLauncher, selectionnez votre langue et ensuite, comme
 
 <img width="607" alt="Capture d’écran 2022-12-10 à 10 46 51" src="https://user-images.githubusercontent.com/74014262/206845936-817a9cbf-ef26-4c13-8f06-9ef984454597.png">
 
-Une fois cela fait, appuyer sur le bouton "Comptes" tout en haut à droite, et selectionnez "Configurer les comptes"
+Une fois cela fait, appuyer sur le bouton "Finit" tout en bas à droite (en bleu). Sur la page principal, appuyer sur le bouton "Comptes" tout en haut à droite, et selectionnez "Configurer les comptes"
 
 Une fois que la nouvelle fenêtre s'ouvre, cliquez sur le bouton tout en haut à droite "Ajouter un compte microsoft" et connectez votre compte.
 
