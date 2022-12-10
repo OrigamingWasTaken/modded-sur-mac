@@ -101,3 +101,11 @@ Déziper le fichier téléchargé et déplacez le dossier crée dans votre utili
 Oui c'était long mais ça vaut la peine! Vous pouvez maintenant jouer à Modded!
 
 En cas de crash, ou de bug, contactez **Origaming#0001** sur discord. **ATTENTION** si trop de personne me dm, je risque de les bloquer. Donc envoyez moi un message seulement si vous arrivez vraiment pas.
+
+# Potentiels problemes
+
+Si votre minecraft ne veux pas se lancer, voici plusieurs solutions à des problème connus.
+
+### Xcode
+
+Il se peut que vous n'aillez pas accepté les contrats d'utilisation d'Xcode. Dans ce cas, appuyez sur `Commande + Espace` et cherchez `Terminal`. Ouvrez l'application et collez ceci: `sudo xcodebuild -license`, après cela, écrivez le mot de passe d'une session admin (Quand vous écrivez, les caractères ne seront pas affichés). **Appuyez sur entrer pour valider le mot de passe.** Une fois que vous l'avez validé, appuyer sur `Entrée`, puis sur `q`, et finalement écrivez `agree`.
