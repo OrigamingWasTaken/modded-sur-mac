@@ -70,7 +70,7 @@ Vous aurez un dossier `.modded` qui va apparaître. Dans le dossier, selectionne
 
 **Finalement, aller dans la page de configuration de votre instance** et dans l'onglet version, appuyer sur le bouton **"Ouvrir .minecraft"** à droite (4eme bouton en partant du bas)
 
-Une fois dans le dossier, collez tout les fichiers modded.
+Une fois dans le dossier, collez tout les fichiers modded. **Si des fichiers existent déjà sous le même nom, remplacez les.**
 
 ## Appliquer le patch
 
