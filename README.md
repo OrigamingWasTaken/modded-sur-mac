@@ -27,7 +27,7 @@ Pour télécharger Modded, vous pouvez aller sur https://paladium-pvp.fr et tél
 
 Une fois téléchargé, ouvrez le launcher (paladium-group) et installez Modded dans sa section. Nous avons besoin de faire ça pour générer les bons fichiers.
 
-**Tout les fichiers seront entierement téléchargés quand le bouton jouer apparâitra**
+**Ensuite appuyer sur Jouer et les fichiers de téléchargeront. (modded ne se lancera pas)**
 
 Une fois les fichiers téléchargés, vous pouvez quitter __paladium_group__
 
