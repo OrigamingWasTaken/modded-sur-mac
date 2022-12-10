@@ -31,7 +31,33 @@ Une fois téléchargé, ouvrez le launcher (paladium-group) et installez Modded 
 
 Une fois les fichiers téléchargés, vous pouvez quitter __paladium_group__
 
-## Enfin! Créer son instance Modded
+## Télécharger le patch jcef
+
+Modded utilise une librairie nommée jcef. Mais celle ci en soit est incompatible avec mac. C'est pour ça que nous devons télécharger une version patch.
+Pour télécharger le patch, aller sur https://drive.google.com/file/d/1aDeoBLTdpe3LKjuEtStmGbMWQIPl6fXY/view?usp=sharing (il a été compilé par moi, c'est pour ça qu'il est sur google drive)
+
+## Configurer PrismLauncher
 
 Maintenant que tout les fichiers sont téléchargés, nous pouvons aller créer une instance dans PrismLauncher.
-Pour se faire, ouvrez PrismLauncher et 
+Pour se faire, ouvrez PrismLauncher, selectionnez votre langue et ensuite, comme version java, selectionnez la **16.0.2 x86 64-bit**.
+
+<img width="607" alt="Capture d’écran 2022-12-10 à 10 46 51" src="https://user-images.githubusercontent.com/74014262/206845936-817a9cbf-ef26-4c13-8f06-9ef984454597.png">
+
+Une fois cela fait, appuyer sur le bouton "Comptes" tout en haut à droite, et selectionnez "Configurer les comptes"
+
+Une fois que la nouvelle fenêtre s'ouvre, cliquez sur le bouton tout en haut à droite "Ajouter un compte microsoft" et connectez votre compte.
+
+## Enfin! Créer son instance Modded
+
+Une fois tout cela fait, nous pouvons maintenant créer une instance minecraft pour jouer à Modded!
+Fermez toute les fenêtre à part la page principal. Sur la page principal, cliquez sur "Ajouter une Instance". Vous devez selectionner la version **1.16.5** et comme **Chargeur de Mod, Forge (et pour la version selectionnez celle avec la petite étoile)**. Vous pouvez aussi donner un nom à votre instance.
+
+Une fois l'instance crée, allez sur la page principal et en selectionnant l'instance, appuyer sur "Modifier"
+
+Là, allez dans la section "Paramètres" et activez "Installation Java" et "Arguments Java"
+
+Dans Installation Java, activez "Passer les vérifications de compatibilité de Java" et verifiez que la version selectionnée est bien java 16 (par défaut, c'est le cas)
+
+Dans Arguments Java, collez `-Dfml.earlyprogresswindow=false` dans la boite de texte.
+
+### Copier les fichiers Modded
