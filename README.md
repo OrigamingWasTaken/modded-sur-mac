@@ -60,4 +60,26 @@ Dans Installation Java, activez "Passer les vérifications de compatibilité de 
 
 Dans Arguments Java, collez `-Dfml.earlyprogresswindow=false` dans la boite de texte.
 
-### Copier les fichiers Modded
+## Copier les fichiers Modded
+
+Pour copier les fichiers modded dans votre instance, cliquez sur finder dans la barre des applications. Puis, glissez votre souris vers le haut de l'écran pour que la barre d'options aparaisse. Sur la barre, appuyer sur "Aller", puis appuyez sur "Aller au dossier" tout en bas.
+
+Ensuite, collez /Library/Application Support/ dans la boite de texte.
+Une nouvelle fenêtre finder va s'ouvrir. Selectionnez-la et appuyez sur `Command + Shift + .`
+
+Vous aurez un dossier `.modded` qui va apparaître. Ouvrez le dossier, selectionnez tout les fichiers/dossiers, et copiez les.
+
+**Finalement, aller dans la page de configuration de votre instance** et dans l'onglet version, appuyer sur le bouton **"Ouvrir .minecraft"** à droite (4eme bouton en partant du bas)
+
+Une fois dans le dossier, collez tout les fichiers modded.
+
+## Appliquer le patch
+
+Si vous essayer de lancer modded, minecraft va crash. Pour régler cela, dezipez le fichiers jcef.zip que vous avez téléchargé avant.
+Ensuite, copier le dossier jcef et collez le dans dossier `externalLibraries` qui se trouve dans `.minecraft`
+
+# Profitez!
+
+Oui c'était long mais ça vaut la peine! Vous pouvez maintenant jouer à Modded!
+
+En cas de crash, ou de bug, contactez **Origaming#0001** sur discord. **ATTENTION** si trop de personne me dm, je risque de les bloquer. Donc envoyez moi un message seulement si vous arrivez vraiment pas.
