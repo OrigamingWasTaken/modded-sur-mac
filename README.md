@@ -87,6 +87,8 @@ Ensuite, copier le dossier jcef et collez le dans dossier `externalLibraries` qu
 
 Déziper le fichier téléchargé et déplacez le dossier crée dans votre utilisateur (ex: `/Users/steve/`). Une fois le dossier déplacé, allez dans les paramètres de votre instance et aller dans la section (en haut de la page) `Commandes Personalisées`. Activer la première option et dans **Commande Wrapper**, collez `~/m1-multimc-hack-master/mcwrap.py`
 
+<img width="711" alt="CleanShot 2022-12-10 at 13 49 39@2x" src="https://user-images.githubusercontent.com/74014262/206855998-b1b55a71-6571-4c74-afa5-edf5af98fbed.png">
+
 # Profitez!
 
 Oui c'était long mais ça vaut la peine! Vous pouvez maintenant jouer à Modded!
