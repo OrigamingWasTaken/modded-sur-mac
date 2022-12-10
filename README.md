@@ -66,7 +66,7 @@ Pour copier les fichiers modded dans votre instance, cliquez sur finder dans la 
 
 Ensuite, collez `/Users/<utilisateur>/Library/Application Support/.modded` dans la boite de texte ou `<utilisateur>` est votre chemin d'utilisateur (il écrit dans la bar latéral à gauche de finder, son icone c'est une maison).
 
-Vous aurez un dossier `.modded` qui va apparaître. Ouvrez le dossier, selectionnez tout les fichiers/dossiers, et copiez les.
+Vous aurez un dossier `.modded` qui va apparaître. Dans le dossier, selectionnez tout les fichiers/dossiers, et copiez les.
 
 **Finalement, aller dans la page de configuration de votre instance** et dans l'onglet version, appuyer sur le bouton **"Ouvrir .minecraft"** à droite (4eme bouton en partant du bas)
 
