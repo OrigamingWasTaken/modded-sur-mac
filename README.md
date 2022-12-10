@@ -1,6 +1,13 @@
 # Modded sur Mac!
 
+
+
+
 Oui vous avez bien entendu, après de longues heures de debugging j'ai trouvé une technique qui marche assez bien.
+
+
+
+
 
 ## Le launcher
 
