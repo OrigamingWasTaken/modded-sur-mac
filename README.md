@@ -41,7 +41,7 @@ Une fois les fichiers téléchargés, vous pouvez quitter __paladium_group__
 ## Télécharger le patch jcef
 
 Modded utilise une librairie nommée jcef. Mais celle ci en soit est incompatible avec mac. C'est pour ça que nous devons télécharger une version patch.
-Pour télécharger le patch, aller sur https://drive.google.com/file/d/1aDeoBLTdpe3LKjuEtStmGbMWQIPl6fXY/view?usp=sharing (il a été compilé par moi, c'est pour ça qu'il est sur google drive)
+Pour télécharger le patch, aller sur https://drive.google.com/file/d/1aDeoBLTdpe3LKjuEtStmGbMWQIPl6fXY/view?usp=sharing (il a été compilé par moi, c'est pour ça qu'il est sur google drive) (Compilé grâce au mod ici: https://github.com/ds58/mcef/releases)
 
 ## Configurer PrismLauncher
 
